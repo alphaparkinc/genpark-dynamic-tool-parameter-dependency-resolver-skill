@@ -1,0 +1,15 @@
+{
+  "name": "genpark-dynamic-tool-parameter-dependency-resolver-skill",
+  "version": "1.0.0",
+  "description": "Dynamic tool parameter dependency resolver, environment secret injector, and runtime parameter cascade mapper.",
+  "author": "GenPark AI",
+  "license": "MIT",
+  "keywords": [
+    "dependency-resolver",
+    "parameter-injection",
+    "cascade",
+    "agent-tools",
+    "genpark",
+    "mcp"
+  ]
+}
